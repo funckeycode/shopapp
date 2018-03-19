@@ -1,0 +1,60 @@
+{  
+   "data":[  
+      {  
+         "prodId":1,
+         "prodName":"Shirts",
+         "imgSrc":"images/shirt.jpg",
+         "prodDesc":"Lorem Ipsum has been the industry's standard",
+         "prodPrice":"20"
+      },
+      {  
+         "prodId":2,
+         "prodName":"Trousers",
+         "imgSrc":"images/trouser.jpeg",
+         "prodDesc":"dummy text ever since the 1500s",
+         "prodPrice":"30"
+      },
+      {  
+         "prodId":3,
+         "prodName":"Shoes",
+         "imgSrc":"images/shoe.jpg",
+         "prodDesc":"when an unknown printer took a galley",
+         "prodPrice":"40"
+      },
+      {  
+         "prodId":4,
+         "prodName":"HandBag",
+         "imgSrc":"images/handbag.jpeg",
+         "prodDesc":"scrambled it to make a type specimen book",
+         "prodPrice":"50"
+      },
+       {  
+         "prodId":3,
+         "prodName":"Shoes",
+         "imgSrc":"images/shoe.jpg",
+         "prodDesc":"when an unknown printer took a galley",
+         "prodPrice":"40"
+      },
+      {  
+         "prodId":4,
+         "prodName":"HandBag",
+         "imgSrc":"images/handbag.jpeg",
+         "prodDesc":"scrambled it to make a type specimen book",
+         "prodPrice":"50"
+      },
+      {  
+         "prodId":1,
+         "prodName":"Shirts",
+         "imgSrc":"images/shirt.jpg",
+         "prodDesc":"Lorem Ipsum has been the industry's standard",
+         "prodPrice":"20"
+      },
+      {  
+         "prodId":2,
+         "prodName":"Trousers",
+         "imgSrc":"images/trouser.jpeg",
+         "prodDesc":"dummy text ever since the 1500s",
+         "prodPrice":"30"
+      }
+   ]
+}
